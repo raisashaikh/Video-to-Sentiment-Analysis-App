@@ -41,4 +41,5 @@ streamlit: For building the web app interface.\
 moviepy: For video processing.\
 whisper-timestamped: For speech-to-text transcription with timestamps.\
 nltk: For natural language processing and sentiment analysis.
+![v2](https://github.com/user-attachments/assets/d0d0e171-863e-49c1-85a6-69a15b532014)\
 ![v1](https://github.com/user-attachments/assets/a7246c8b-420d-4f5b-8d35-b9daea1e8b41)
