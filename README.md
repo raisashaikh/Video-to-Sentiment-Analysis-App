@@ -37,7 +37,7 @@ Finally, it will perform sentiment analysis on the transcribed text and display 
 app.py: The main Streamlit app script.
 requirements.txt: A list of all dependencies required for the project.
 # Dependencies
-streamlit: For building the web app interface.
-moviepy: For video processing.
-whisper-timestamped: For speech-to-text transcription with timestamps.
+streamlit: For building the web app interface.\\
+moviepy: For video processing.\\
+whisper-timestamped: For speech-to-text transcription with timestamps.\\
 nltk: For natural language processing and sentiment analysis.
