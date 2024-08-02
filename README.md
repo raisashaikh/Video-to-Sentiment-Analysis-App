@@ -16,30 +16,30 @@ This project allows users to upload a video file, extract its audio, transcribe 
 # Install the required dependencies:
 pip install -r requirements.txt
 # Requirements
-* Python 3.8 or higher\
-* Streamlit\
-* moviepy\
-* whisper-timestamped\
-* nltk\
+* Python 3.8 or higher
+* Streamlit
+* moviepy
+* whisper-timestamped
+* nltk
 * Make sure you have ffmpeg installed for moviepy to work correctly.
 
 # Usage
-* Run the Streamlit app:\
+* Run the Streamlit app:
 * streamlit run app.py
 # Upload a video file:
-* Open the app in your browser (usually at http://localhost:8501).\
-* Upload a video file in .mp4 format.\
-* View results:\
-* After uploading, the app will extract the audio from the video.\
-* It will then transcribe the audio to text with timestamps.\
+* Open the app in your browser (usually at http://localhost:8501).
+* Upload a video file in .mp4 format.
+* View results:
+* After uploading, the app will extract the audio from the video.
+* It will then transcribe the audio to text with timestamps.
 * Finally, it will perform sentiment analysis on the transcribed text and display the results.
 # File Structure
 * app.py: The main Streamlit app script.
 * requirements.txt: A list of all dependencies required for the project.
 # Dependencies
-* streamlit: For building the web app interface.\
-* moviepy: For video processing.\
-* whisper-timestamped: For speech-to-text transcription with timestamps.\
+* streamlit: For building the web app interface.
+* moviepy: For video processing.
+* whisper-timestamped: For speech-to-text transcription with timestamps.
 * nltk: For natural language processing and sentiment analysis.
 ![v2](https://github.com/user-attachments/assets/d0d0e171-863e-49c1-85a6-69a15b532014)\
 ![v1](https://github.com/user-attachments/assets/a7246c8b-420d-4f5b-8d35-b9daea1e8b41)
