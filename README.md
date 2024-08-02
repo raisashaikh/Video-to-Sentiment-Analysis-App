@@ -1,5 +1,5 @@
 # Video-to-Sentiment-Analysis-App
-This project allows users to upload a video file, extract its audio, transcribe the speech to text with timestamps, and perform sentiment analysis on the transcribed text. The app is built using Streamlit and leverages several libraries for video processing, speech-to-text transcription, and sentiment analysis.
+This project allows users to upload a video file, extract its audio, transcribe the speech to text with timestamps, and perform sentiment analysis on the transcribed text. The app is built using Streamlit and leverages several libraries for video processing, speech-to-text transcription, and sentiment analysis. The app can also be run using Google Colab for easy setup and access.
 
 # Features
 Upload a video file (.mp4 format).\
